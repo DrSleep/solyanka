@@ -1,0 +1,6 @@
+pandas>=0.25.3
+Pillow>=6.2.1
+plotly>=4.8.1
+numpy>=1.17.4
+pytesseract>=0.3.4
+PyAutoGUI>=0.9.50
